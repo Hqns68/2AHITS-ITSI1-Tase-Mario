@@ -1,0 +1,4 @@
+
+Wie vielen scanf?
+3
+
